@@ -2,6 +2,7 @@ name: changemusic
 favicon: null
 layout_spectrum: 0.011908255517482758
 typography_spectrum: 0.6505317748524249
+title: Change Music
 cta:
   domain: null
   bucket: null
