@@ -1,0 +1,28 @@
+name: changemusic
+favicon: null
+layout_spectrum: 0.011908255517482758
+typography_spectrum: 0.6505317748524249
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#F7EDF0'
+    - '#F4CBC6'
+    - '#F4AFAB'
+    - '#F4EEA9'
+    - '#F4F482'
+  brandStrength: 0.02228017058223486
+  lightness: 0.8482968669850379
+  saturation: 0.5280634122900665
+  rhythmicContrast: 0.17164043430238962
+purpose: []
