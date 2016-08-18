@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[changemusic]]></title>
+        <description><![CDATA[changemusic]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 18 Aug 2016 00:16:20 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>Facebook is full of shit. Those 300 people that have been 
+invited to your party will more realistically turn out to be just 50. 
+And the 600 that said they were ‘going’ to your next show certainly 
+haven’t bought their tickets.</p>]]></description>
+            <link>undefinedfacebook-is-full-of-shit-those-300-people-that-have-been-i/index.html</link>
+            <guid isPermaLink="false">b2e45cfb-e551-4008-8d04-2fab82410c82</guid>
+            <pubDate>Thu, 18 Aug 2016 00:15:13 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
